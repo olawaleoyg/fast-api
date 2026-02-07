@@ -1,0 +1,13 @@
+contexts:
+- name: localhost:8080
+  server: localhost:8080
+  user: localhost:8080
+current-context: localhost:8080
+prompts-enabled: false
+servers:
+- grpc-web-root-path: ""
+  insecure: true
+  server: localhost:8080
+users:
+- auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcmdvY2QiLCJzdWIiOiJhZG1pbjpsb2dpbiIsImV4cCI6MTc3MDU3ODk4OCwibmJmIjoxNzcwNDkyNTg4LCJpYXQiOjE3NzA0OTI1ODgsImp0aSI6IjY0M2JhZDhmLWQxMjEtNDVkZS1iZTEwLTE5MmZkMjY1Zjc3NCJ9.Ikx90Zvg6ZsSog9S5i69Avm04GWwN1zbYX0_rhCYwPk
+  name: localhost:8080
